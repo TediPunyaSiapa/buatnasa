@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+ 
+      body {
+          background-image: url('download.jpeg');
+          background-repeat: repeat;
+          background-size: cover;
+          background-position: center;
+      }
+ 
+  body {
+    color: #ffffff;
+
+    @font-face {
+      font-family: 'Bit';
+      src: url('MadimiOne-Regular.ttf') format('truetype'),
+        url('MadimiOne-Regular.ttf') format('truetype');
+    }
+
+    body {
+      font-family: 'MadimiOne-Regular.ttf', fallback, Time new roman;
+
+    }
+
+    h1 {
+      font-size: 50px
+    }
+
+    p {
+      font-size: 20px
+    }
+
+    p1{
+      font-size: 15px
+    }
