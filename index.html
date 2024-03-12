@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>nasyaaaaa</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script>
+    alert("halooo nasyaaaa lagi canvaa yahhhh");
+    alert("Pastiii capeeee ga sihhh");
+    alert("nantiii kalo ada waktuu buat mainn kitaaa mainn yahhhh");
+    alert("iniii akuu kasihh link Spotify buat temenin nge canva nyaaa");
+  </script>
+</head>
+
+<body>
+  <style>
+    body {
+      background-image: url('abstract-3042277_1280.jpg');
+      background-size: 1125px 2436px; /* iPhone Xs dimensions */
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+
+    @media only screen and (max-device-width: 812px) and (orientation: portrait) {
+      body {
+        background-size: 1125px 2436px; /* iPhone Xs dimensions */
+      }
+    }
+
+    @media only screen and (max-device-width: 812px) and (orientation: landscape) {
+      body {
+        background-size: 2436px 1125px; /* iPhone Xs dimensions */
+      }
+    }
+  </style>
+  
+  
+  
+  
+  
+  Iniii Link Spotify Nya di dengerin yah
+  <a href="https://open.spotify.com/playlist/6MZkBfBHaI7HSL9lhCNtxr?si=etnXkLmGQ3u67avLcng2OA&pi=a-3hY44HfATd23" target="_blank">Open Spotify Playlist</a>
+
+
+  <p>iniii awal mula sukaaa nasaaa tauuu
+  <img src="IMG-20240215-WA0008.jpg" 
+alt="iniii awall mulaaaa kenapaa akuuu suka nasaaaaa heheheheh" width="200" height="250"> 
+  </p>
+    
+<p>
+yang bawahh iniiiii lagi rapattt
+<img src="IMG-20240301-WA0041.jpg" 
+alt="iniii awall mulaaaa kenapaa akuuu suka nasaaaaa heheheheh" width="300" height="250">
+
+
+</p>
+
+    
+ <p>
+   Ini waktu di paparaziin sam raisa heheheheh
+   <img src="IMG-20240226-WA0003.jpg" 
+   alt="iniii awall mulaaaa kenapaa akuuu suka nasaaaaa heheheheh" width="200" height="250">
+
+
+
+   
+ </p>  
+  
+  <p>
+    
+    aku mau ngode boleh gaaaa?
+    <button onclick="redirectToLink()">Boleh</button>
+    <button>Ngga</button>
+
+    <script>
+      function redirectToLink() {
+        window.location.href = "https://open.spotify.com/track/3Jby9Ezr1E7wCsXe0Dexa6?si=BayE90JwTiy-p5kKhPR9XA";
+      }
+    </script>
+</p>
+  
+<p>
+  kalo mauu kaya giniii lagi nanti akuu bikin yang lebi lebihhh niat lagiii chat sajaaa akuuuuu
+</p>  
+  
+  
+  
+  
+  <head>
+  <style>
+    body {
+      font-family: 'Times New Roman', Times, serif; /* Mengubah jenis font global menjadi Times New Roman */
+    }
+  </style>
+
+  
+  
+</body>
+
+</html>
